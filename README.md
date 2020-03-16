@@ -85,7 +85,7 @@
 
 <center>
 <!-- ngIf: !useGridView() --><div ng-if="!useGridView()" class="ng-scope">
-        <!-- ngRepeat: image in view.code.images track by $index --><sh-gallery-image ng-repeat="image in view.code.images track by $index" class="ng-scope"><div class="sh-image" ng-click="openGallery(image)" ng-style="getImageContainerStyle(image)" style="padding-bottom: 128.106%;"><img class="sh-image__image" ng-src="//C:\Users\Makoto\Downloads\Página App Archivos\6181926_1.jpg" ng-class="{'sh-image__image--loaded': image}" src="//C:\Users\Makoto\Downloads\Página App Archivos\6181926_1.jpg"></div></sh-gallery-image>
+        <!-- ngRepeat: image in view.code.images track by $index --><sh-gallery-image ng-repeat="image in view.code.images track by $index" class="ng-scope"><div class="sh-image" ng-click="openGallery(image)" ng-style="getImageContainerStyle(image)" style="padding-bottom: 128.106%;"><img class="sh-image__image" ng-src="/https://raw.githubusercontent.com/gabyzt/https-gabyzt.github.io-music-.-/master/P%C3%A1gina%20App%20Archivos/6181926_1.jpg" ng-class="{'sh-image__image--loaded': image}" src="https://raw.githubusercontent.com/gabyzt/https-gabyzt.github.io-music-.-/master/P%C3%A1gina%20App%20Archivos/6181926_1.jpg"></div></sh-gallery-image>
 
     
             
